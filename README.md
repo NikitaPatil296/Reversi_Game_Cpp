@@ -5,8 +5,8 @@ This project implements a simplified version of the board game Reversi (also kno
 
 The implementation consists of two main classes:
 
-ReversiBoard: Represents the state of the Reversi board.
-ReversiConsoleView: Provides a console-based view of the board state.
+ReversiBoard: Represents the state of the Reversi board.  
+ReversiConsoleView: Provides a console-based view of the board state.  
 The goal is to build a functioning Reversi game, with proper handling of game rules, such as placing pieces, flipping opponent's pieces, and checking for valid moves.
 
 ## Task Description  
@@ -28,6 +28,6 @@ The print() method displays the board in its current state.
 ### Main Function  
 The main function contains a loop that:
 
-Queries the user for the location to place the next piece.
-Validates the move and updates the board via the ReversiBoard class.
-Prints the updated board state using the ReversiConsoleView class.
+Queries the user for the location to place the next piece. 
+Validates the move and updates the board via the ReversiBoard class. 
+Prints the updated board state using the ReversiConsoleView class. 
